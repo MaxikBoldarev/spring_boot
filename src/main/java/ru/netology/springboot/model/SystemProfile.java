@@ -1,4 +1,4 @@
-package ru.netology.springboot;
+package ru.netology.springboot.model;
 
 public interface SystemProfile {
     String getProfile();

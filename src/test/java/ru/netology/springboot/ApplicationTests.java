@@ -9,6 +9,4 @@ class ApplicationTests {
     void applicationTests() {
 
     }
-
-
 }
