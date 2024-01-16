@@ -1,4 +1,4 @@
-package ru.netology.springboot.initializer;
+package ru.netology.springboot;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
